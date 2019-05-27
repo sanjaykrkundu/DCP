@@ -1,4 +1,4 @@
-package io.github.sanjaykrkundu.dcp.p_4;
+package io.github.sanjaykrkundu.dcp.p_0004;
 
 public class Solution_4 {
 
